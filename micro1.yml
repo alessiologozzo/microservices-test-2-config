@@ -1,8 +1,8 @@
-ownerInfo:
+owner-info:
   name: Alessio
   surname: Logozzo
   profile: default
-  serviceName: micro1
+  service-name: micro1
   attributes:
     - this
     - is
