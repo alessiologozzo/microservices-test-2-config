@@ -1,7 +1,7 @@
 owner-info:
   name: Alessio
   surname: Logozzo
-  profile: prodTest
+  profile: prod
   service-name: micro1
   attributes:
     - this
