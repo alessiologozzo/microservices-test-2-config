@@ -1,0 +1,10 @@
+ownerInfo:
+  name: Alessio
+  surname: Logozzo
+  profile: prod
+  serviceName: micro2
+  attributes:
+    - this
+    - is
+    - a
+    - test
