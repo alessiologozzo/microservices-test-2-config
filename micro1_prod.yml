@@ -2,6 +2,7 @@ ownerInfo:
   name: Alessio
   surname: Logozzo
   profile: default
+  serviceName: micro1
   attributes:
     - this
     - is
